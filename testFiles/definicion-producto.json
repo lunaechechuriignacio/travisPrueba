@@ -1,0 +1,4 @@
+{"campos":[
+	{"nombre":"identificador", "tipo":"String"}, 
+	{"nombre":"apellido", "tipo":"String"}
+]}
